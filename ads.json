@@ -1,1 +1,18 @@
-{}
+{
+    "testing": {
+        "projectName": "testing",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarc",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarc/agama-test",
+        "githubUri": "https://github.com/rizarc/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1687624085074",
+        "tags": [
+            "jans",
+            "demo",
+            "testing"
+        ]
+    }
+}
